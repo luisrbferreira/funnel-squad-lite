@@ -26,7 +26,17 @@ Cada skill executa um framework real da metodologia PSS (Perpétuo Sem Segredo),
 
 ## Instalação
 
-**Pré-requisito:** [Claude Code](https://docs.anthropic.com/en/docs/claude-code) instalado.
+**Pré-requisito:** [Claude Code](https://docs.anthropic.com/en/docs/claude-code) instalado (CLI ou Desktop).
+
+### Opção 1 — Claude Code Desktop (mais fácil)
+
+Abra o Claude Code Desktop e cole esta mensagem:
+
+> Clona o repositório https://github.com/luisrbferreira/funnel-squad-lite.git e copia as 5 pastas de skills (fs-cliente, fs-oferta, fs-pagina, fs-criativo, fs-genesis) para ~/.claude/skills/ — cada pasta tem um arquivo SKILL.md dentro. Depois confirma que instalou mostrando as 5 skills.
+
+O Claude faz tudo sozinho. Só apertar Enter.
+
+### Opção 2 — Terminal
 
 ```bash
 # 1. Clone o repositório
@@ -39,6 +49,12 @@ cp -r funnel-squad-lite/fs-* ~/.claude/skills/
 claude
 /fs-cliente
 ```
+
+### Opção 3 — Download direto
+
+Baixe o ZIP: [funnel-squad-lite-main.zip](https://github.com/luisrbferreira/funnel-squad-lite/archive/refs/heads/main.zip)
+
+Depois extraia e copie as 5 pastas `fs-*` para `~/.claude/skills/`.
 
 ---
 
