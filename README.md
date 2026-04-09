@@ -30,7 +30,7 @@ Cada skill executa um framework real da metodologia PSS (Perpétuo Sem Segredo),
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/vertixflow/funnel-squad-lite.git
+git clone https://github.com/luisrbferreira/funnel-squad-lite.git
 
 # 2. Copie as skills para o Claude Code
 cp -r funnel-squad-lite/fs-* ~/.claude/skills/
