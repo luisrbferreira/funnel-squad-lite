@@ -50,4 +50,4 @@ Na **Imersão Claude Funnels** você aprende a usar tudo ao vivo: [ia.outsidersc
 
 ---
 
-Feito com Claude por [Vertix Flow](https://vertixflow.com) e [Outsider School](https://outsiderschool.com.br).
+Feito com Claude por Luis Ferreira e Bruno Gomes.
